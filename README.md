@@ -1,6 +1,6 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/felipesilvati/felipesilvati/main/wave.gif" width="30">
 
-I'm Felipe Silva, a Senior Software Engineer with over 8 years of experience specializing in high-performance, user-friendly web applications using React and JavaScript. My journey is marked by a consistent focus on delivering successful projects and a deep commitment to these technologies.
+I'm **Felipe Silva**, a <em>Senior Software Engineer with over 8 years of experience</em> specializing in high-performance, user-friendly web applications using **React** and **JavaScript**. My journey is marked by a consistent focus on delivering successful projects and a deep commitment to these technologies.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Felipe%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesilvati/)](https://www.linkedin.com/in/felipesilvati/)
 
@@ -15,7 +15,7 @@ I'm Felipe Silva, a Senior Software Engineer with over 8 years of experience spe
 - **Team Player and Mentor:** Demonstrated leadership in tech teams, fostering collaborative success and skill development.
 - **Continuous Learner:** Always exploring new tech trends and best practices in web development.
 
-## Core Technologies
+## Core Technologies 🚀
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
