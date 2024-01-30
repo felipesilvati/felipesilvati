@@ -3,6 +3,7 @@
 I'm **Felipe Silva**, a <em>Senior Software Engineer with over 8 years of experience</em> specializing in high-performance, user-friendly web applications using **React** and **JavaScript**. My journey is marked by a consistent focus on delivering successful projects and a deep commitment to these technologies.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Felipe%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesilvati/)](https://www.linkedin.com/in/felipesilvati/)
+[![X Badge](https://img.shields.io/badge/-@felipedacss-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/felipedacss)](https://x.com/felipedacss)
 
 ## Open to Opportunities 🌟
 - **Actively Seeking New Roles:** In the wake of an unexpected layoff in December, I am on the lookout for my next big challenge. I am particularly interested in Senior Software Engineer positions in North America (fully remote) or Europe (open to on-site or hybrid opportunities).
