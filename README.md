@@ -4,10 +4,6 @@ I'm **Felipe Silva**, a <em>Senior Software Engineer with over 8 years of experi
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Felipe%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesilvati/)](https://www.linkedin.com/in/felipesilvati/)
 
-## Open to Opportunities 🌟
-- **Actively Seeking New Roles:** In the wake of an unexpected layoff in December, I am on the lookout for my next big challenge. I am particularly interested in Senior Software Engineer positions in North America (fully remote) or Europe (open to on-site or hybrid opportunities).
-- **Global Experience:** With extensive experience working remotely for North American companies, I am equipped to adapt to diverse environments and ready to bring my expertise to your team.
-
 ## What I Bring to the Table 👨‍💻
 - **8+ Years in Software Engineering:** Proven expertise in React and JavaScript, delivering robust web applications.
 - **North American Market Experience:** 3 years of adapting to diverse team cultures and project demands in remote settings.
