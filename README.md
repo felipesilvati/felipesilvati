@@ -1,12 +1,12 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/felipesilvati/felipesilvati/main/wave.gif" width="30">
 
-I'm **Felipe Silva**, a <em>Senior Software Engineer with over 8 years of experience</em> specializing in high-performance, user-friendly web applications using **React** and **JavaScript**. My journey is marked by a consistent focus on delivering successful projects and a deep commitment to these technologies.
+I'm **Felipe Silva**, a <em>Senior Software Engineer with over 10 years of experience</em> specializing in high-performance, user-friendly web applications using **React** and **JavaScript**. My journey is marked by a consistent focus on delivering successful projects and a deep commitment to these technologies.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Felipe%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesilvati/)](https://www.linkedin.com/in/felipesilvati/)
 
 ## What I Bring to the Table 👨‍💻
-- **8+ Years in Software Engineering:** Proven expertise in React and JavaScript, delivering robust web applications.
-- **North American Market Experience:** 3 years of adapting to diverse team cultures and project demands in remote settings.
+- **10+ Years in Software Engineering:** Proven expertise in React and JavaScript, delivering robust web applications.
+- **North American Market Experience:** 5 years of adapting to diverse team cultures and project demands in remote settings.
 - **Problem Solver:** Skilled in resolving complex technical challenges and optimizing user experiences.
 - **Team Player and Mentor:** Demonstrated leadership in tech teams, fostering collaborative success and skill development.
 - **Continuous Learner:** Always exploring new tech trends and best practices in web development.
